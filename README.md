@@ -32,6 +32,7 @@ INTERNATIONAL 30 COUNTRY CRACKER 6,7,AND CRACKING FROM OWN PASSWORD HAS BEEN ADD
 
 # SINGLE COMMAND
 ````
+
 pkg install python && pkg install python2 && pkg install git && pip2 install requests && pip2 install tqdm && pip2 install mechanize && git clone https://github.com/Hunter-alamin/NMBR_CRACKER && cd NMBR_CRACKER && python2 Allnmbr.py
 
 ````
